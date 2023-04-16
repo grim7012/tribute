@@ -1,0 +1,83 @@
+body, html {
+    height: 100%;
+    margin: 0;
+}
+.bg {
+    background-image: url("mad.png");
+    height: 100%; 
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.name {
+    height: 100px;
+    margin-left: 50px;
+    font-size: 900%;
+    font-family: Mistral;
+    color: black;
+}
+.a {
+    height: 10px;
+    margin-bottom: 30px;
+    font-size: 400%;
+    vertical-align: text bottom;
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+    margin-left: 155px;
+}
+.year {
+    font-size: 300%;
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+    margin-left: 200px;
+    margin-top: 50px;   
+}
+.b {
+    height: 100px;
+}
+.about {
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+    font-size: 20px;
+    margin-right: 230px;
+    margin-bottom: 100px;
+    
+}
+.cont {
+    background-color: black;
+    
+}
+.center {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+.abb {
+    font-size: 300%;
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+    margin-left: 50px;
+    display: flex;
+  align-items: center;
+  justify-content: center   
+}
+.imgg {
+  
+    display: flex;
+    flex-direction: column;
+    align-items: end;
+    margin-right: 200px;    
+}
+.imgg img{
+    width: 200px;
+    height: 200px;
+    padding: 3px;
+    border: 1px solid white;
+    margin-left: 3px;
+}
+.abab{
+    font-size: 300%;
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+    margin-left: 50px;
+}
